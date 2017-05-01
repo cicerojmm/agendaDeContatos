@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/build/intermediates/res/merged/debug/menu/menu_lista_alunos.xml",
+        "source": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/src/main/res/menu/menu_lista_alunos.xml"
+    },
+    {
+        "merged": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/build/intermediates/res/merged/debug/menu/menu_formulario.xml",
+        "source": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/src/main/res/menu/menu_formulario.xml"
+    }
+]

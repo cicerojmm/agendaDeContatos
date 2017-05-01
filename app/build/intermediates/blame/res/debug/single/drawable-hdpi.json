@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_mapa.png",
+        "source": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/src/main/res/drawable-hdpi/ic_mapa.png"
+    },
+    {
+        "merged": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_receber.png",
+        "source": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/src/main/res/drawable-hdpi/ic_receber.png"
+    },
+    {
+        "merged": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_confirmar.png",
+        "source": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/src/main/res/drawable-hdpi/ic_confirmar.png"
+    },
+    {
+        "merged": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_no_image.png",
+        "source": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/src/main/res/drawable-hdpi/ic_no_image.png"
+    },
+    {
+        "merged": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_preferencias.png",
+        "source": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/src/main/res/drawable-hdpi/ic_preferencias.png"
+    },
+    {
+        "merged": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_enviar.png",
+        "source": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/src/main/res/drawable-hdpi/ic_enviar.png"
+    },
+    {
+        "merged": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_opcoes.png",
+        "source": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/src/main/res/drawable-hdpi/ic_opcoes.png"
+    },
+    {
+        "merged": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_camera.png",
+        "source": "/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/src/main/res/drawable-hdpi/ic_camera.png"
+    }
+]

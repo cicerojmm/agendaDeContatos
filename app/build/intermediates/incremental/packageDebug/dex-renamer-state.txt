@@ -1,0 +1,7 @@
+#Thu Apr 27 17:42:41 BRT 2017
+base.0=/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1c8464dd529cb218ff2fd9bdc42acd1d9facd647
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c2b14b648bd03b868e29a80b7c2f6204cfa75dbf/classes.dex
+base.1=/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c2b14b648bd03b868e29a80b7c2f6204cfa75dbf
+file.0=/home/ciceromoura/Documentos/AndroidStudioProjects/AgendaContatos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1c8464dd529cb218ff2fd9bdc42acd1d9facd647/classes.dex
